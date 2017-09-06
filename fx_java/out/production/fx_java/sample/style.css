@@ -1,0 +1,9 @@
+#white_button {
+    -fx-text-fill: black;
+    -fx-background-color: white;
+}
+
+#black_button {
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
